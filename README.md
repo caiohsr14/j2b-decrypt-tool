@@ -1,4 +1,4 @@
-# Jass to Binary (j2B) Decryption Algorithm
+# Jass to Binary (j2b) Decryption Algorithm
 
 ## Overview
 
