@@ -1,4 +1,4 @@
-# WAR3MAP.BIN Decryption Algorithm - Complete Technical Documentation
+# Jass to Binary (j2B) Decryption Algorithm
 
 ## Overview
 
